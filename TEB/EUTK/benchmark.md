@@ -9,3 +9,10 @@ https://browser.geekbench.com/v6/cpu/3134468
 #### Geekbench 6
 ![image](https://github.com/176-85-44-91/dumping-ground/assets/38375126/0db376e1-856b-42d5-b162-8737c93331c1)
 https://browser.geekbench.com/v6/compute/1129954
+
+
+
+
+
+
+Szymon Krupa nic wartościowego nie zrobił.
